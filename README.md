@@ -1,3 +1,4 @@
+
 # Polyphonic Piano Music Transcription
 The final project of 2019 NCTU Deep Learning and Practice (Spring).
 
@@ -11,6 +12,7 @@ We implemented a Hybrid-RNN proposed by [1] to convert piano audio into musical 
 
 # Convert Result
 
+<audio src="">
 
 # Reference
 [1] Sigtia, Siddharth, Emmanouil Benetos, and Simon Dixon. "An end-to-end neural network for polyphonic piano music transcription." IEEE/ACM Transactions on Audio, Speech, and Language Processing 24.5 (2016): 927-939.
