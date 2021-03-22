@@ -12,7 +12,7 @@ We implemented a Hybrid-RNN proposed by [1] to convert piano audio into musical 
 
 # Convert Result
 
-<audio src="">
+<audio src="ConvertResult/VK_ori.wav">
 
 # Reference
 [1] Sigtia, Siddharth, Emmanouil Benetos, and Simon Dixon. "An end-to-end neural network for polyphonic piano music transcription." IEEE/ACM Transactions on Audio, Speech, and Language Processing 24.5 (2016): 927-939.
