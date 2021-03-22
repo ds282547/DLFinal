@@ -10,7 +10,8 @@ The AMT problem can be divided into several subtasks: multi-pitch detection, not
 We implemented a Hybrid-RNN proposed by [1] to convert piano audio into musical notation in midi format.
 
 # Convert Result
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
+
+[Demo 2](https://www.youtube.com/watch?v=FnzoMzA9Dpg)
 
 # Reference
 [1] Sigtia, Siddharth, Emmanouil Benetos, and Simon Dixon. "An end-to-end neural network for polyphonic piano music transcription." IEEE/ACM Transactions on Audio, Speech, and Language Processing 24.5 (2016): 927-939.
