@@ -1,7 +1,3 @@
-
-https://user-images.githubusercontent.com/11732631/111929494-6fa88a80-8af1-11eb-8e42-c49a73018fcf.mp4
-
-
 # Polyphonic Piano Music Transcription
 The final project of 2019 NCTU Deep Learning and Practice (Spring).
 
@@ -14,7 +10,7 @@ The AMT problem can be divided into several subtasks: multi-pitch detection, not
 We implemented a Hybrid-RNN proposed by [1] to convert piano audio into musical notation in midi format.
 
 # Convert Result
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
 
 # Reference
 [1] Sigtia, Siddharth, Emmanouil Benetos, and Simon Dixon. "An end-to-end neural network for polyphonic piano music transcription." IEEE/ACM Transactions on Audio, Speech, and Language Processing 24.5 (2016): 927-939.
