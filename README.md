@@ -1,4 +1,7 @@
 
+https://user-images.githubusercontent.com/11732631/111929494-6fa88a80-8af1-11eb-8e42-c49a73018fcf.mp4
+
+
 # Polyphonic Piano Music Transcription
 The final project of 2019 NCTU Deep Learning and Practice (Spring).
 
