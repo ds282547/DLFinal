@@ -19,8 +19,7 @@ More details in [slides](https://github.com/ds282547/DLFinal/blob/main/slide/sli
 ### Song 2 - Youtube video:
 
 ちょっとたのしい「千本桜（Senbonzakura）」 を弾いてみた【ピアノ】\
-[Source]
-(https://www.youtube.com/watch?v=FnzoMzA9Dpg) \
+[Source](https://www.youtube.com/watch?v=FnzoMzA9Dpg) \
 [Result](https://www.youtube.com/watch?v=FnzoMzA9Dpg)
 ### Song 3 - Video recorded by mobile:
 [Source](https://www.youtube.com/watch?v=C3I3JfmwBJk) 
