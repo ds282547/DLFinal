@@ -13,13 +13,16 @@ More details in [slides](https://github.com/ds282547/DLFinal/blob/main/slide/sli
 # Transcription Result Video
 
 ### Song 1 - Album audio:
-[Original](https://www.youtube.com/watch?v=xMvdcnKzSa4) 1 Billion Lightyear of Distance \
+1 Billion Lightyear of Distance \
+[Original](https://www.youtube.com/watch?v=xMvdcnKzSa4) \
 [Result](https://www.youtube.com/watch?v=XNAYiqEy_iM)
 ### Song 2 - Youtube video:
-[Original](https://www.youtube.com/watch?v=FnzoMzA9Dpg) : ちょっとたのしい「千本桜（Senbonzakura）」 を弾いてみた【ピアノ】\
+[Original]
+ちょっとたのしい「千本桜（Senbonzakura）」 を弾いてみた【ピアノ】\
+(https://www.youtube.com/watch?v=FnzoMzA9Dpg) \
 [Result](https://www.youtube.com/watch?v=FnzoMzA9Dpg)
 ### Song 3 - Video recorded by mobile:
-[Original](https://www.youtube.com/watch?v=C3I3JfmwBJk) \
+[Original](https://www.youtube.com/watch?v=C3I3JfmwBJk) 
 [Result](https://www.youtube.com/watch?v=H8a9tebsHLo)
 
 # Reference
