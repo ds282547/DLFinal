@@ -14,15 +14,16 @@ More details in [slides](https://github.com/ds282547/DLFinal/blob/main/slide/sli
 
 ### Song 1 - Album audio:
 1 Billion Lightyear of Distance \
-[Original](https://www.youtube.com/watch?v=xMvdcnKzSa4) \
+[Source](https://www.youtube.com/watch?v=xMvdcnKzSa4) \
 [Result](https://www.youtube.com/watch?v=XNAYiqEy_iM)
 ### Song 2 - Youtube video:
-[Original]
+
 ちょっとたのしい「千本桜（Senbonzakura）」 を弾いてみた【ピアノ】\
+[Source]
 (https://www.youtube.com/watch?v=FnzoMzA9Dpg) \
 [Result](https://www.youtube.com/watch?v=FnzoMzA9Dpg)
 ### Song 3 - Video recorded by mobile:
-[Original](https://www.youtube.com/watch?v=C3I3JfmwBJk) 
+[Source](https://www.youtube.com/watch?v=C3I3JfmwBJk) 
 [Result](https://www.youtube.com/watch?v=H8a9tebsHLo)
 
 # Reference
